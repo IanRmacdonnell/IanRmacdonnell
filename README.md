@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ian MacDonnell — product-minded builder working across mobile, AI, and data systems" />
+  <img src="./assets/hero.svg" width="100%" alt="Ian MacDonnell, product-minded builder working across mobile, AI, and data systems" />
 </p>
 
 <p align="center">
@@ -10,11 +10,9 @@
 
 ## A little about me
 
-I am an **Information Systems student at Cal Poly** planning a Computer Science minor. I build at the point where product decisions and technical constraints meet: mobile workflows, applied AI, and data systems that make complicated work easier to understand and act on.
+I am an **Information Systems student at Cal Poly** planning a Computer Science minor. I build mobile, AI, and data products where user needs and technical constraints meet. I am especially interested in messy problems involving unreliable connectivity, noisy data, and changing requirements.
 
-The problems I enjoy most are not perfectly packaged. They involve unreliable connectivity, noisy data, ambiguous requirements, or users who need the software to work in the real world—not only in a demo.
-
-Outside of engineering, I write as an **Opinion Columnist for Mustang News** and serve as **VP of Tech Development for Cal Poly's Product Management Club**. Those roles have made clear communication, user empathy, and product judgment a central part of how I build.
+I also write as an **Opinion Columnist for Mustang News** and serve as **VP of Tech Development for Cal Poly's Product Management Club**. Both roles keep communication, user empathy, and product judgment central to how I work.
 
 > **What I am exploring now:** product engineering, technical product management, mobile systems, and applied AI/data opportunities for Summer 2027.
 
@@ -27,8 +25,7 @@ Outside of engineering, I write as an **Opinion Columnist for Mustang News** and
         <img src="https://raw.githubusercontent.com/IanRmacdonnell/internship-opportunity-tracker/main/assets/dashboard.png" width="100%" alt="Opportunity OS dashboard" />
       </a>
       <h3>Opportunity OS</h3>
-      <p>A privacy-first internship tracker that converts a scattered search into a prioritized action system using fit, career signal, recency, urgency, and network strength.</p>
-      <p><b>Shows:</b> product thinking, local-first architecture, and decision-focused analytics.</p>
+      <p>Built a privacy-first internship tracker that ranks opportunities using fit, career signal, recency, urgency, and network strength.</p>
       <p>
         <a href="https://ianrmacdonnell.github.io/internship-opportunity-tracker/"><b>Live demo</b></a> ·
         <a href="https://github.com/IanRmacdonnell/internship-opportunity-tracker"><b>Repository</b></a>
@@ -40,8 +37,7 @@ Outside of engineering, I write as an **Opinion Columnist for Mustang News** and
         <img src="https://raw.githubusercontent.com/IanRmacdonnell/clamor-ai-memory-layer/main/assets/screenshots/clamor-redesign-top.png" width="100%" alt="Clamor AI memory layer interface" />
       </a>
       <h3>Clamor</h3>
-      <p>An AI memory layer that turns noisy student-community conversations into digests, action items, onboarding briefs, alerts, and source-backed answers.</p>
-      <p><b>Shows:</b> AI product design, retrieval workflows, provenance, and full-stack implementation.</p>
+      <p>Built an AI memory layer that turns noisy community chat into digests, action items, onboarding briefs, alerts, and source-backed answers.</p>
       <p>
         <a href="https://ianrmacdonnell.github.io/clamor-ai-memory-layer/"><b>Case study</b></a> ·
         <a href="https://github.com/IanRmacdonnell/clamor-ai-memory-layer"><b>Repository</b></a>
@@ -55,8 +51,7 @@ Outside of engineering, I write as an **Opinion Columnist for Mustang News** and
         <img src="./assets/skier-pipeline.svg" width="100%" alt="Skier tracking computer-vision pipeline" />
       </a>
       <h3>Skier Tracking Pipeline</h3>
-      <p>A computer-vision and data-engineering workflow for skier detection, tracking diagnostics, quality metrics, and human-in-the-loop label review.</p>
-      <p><b>Shows:</b> data quality thinking, observability, model evaluation, and responsible human review.</p>
+      <p>Built a computer-vision pipeline for skier detection, tracking diagnostics, quality metrics, and human-in-the-loop label review.</p>
       <p>
         <a href="https://ianrmacdonnell.github.io/skier-tracking-yolov8-pipeline/"><b>Case study</b></a> ·
         <a href="https://github.com/IanRmacdonnell/skier-tracking-yolov8-pipeline"><b>Repository</b></a>
@@ -68,8 +63,7 @@ Outside of engineering, I write as an **Opinion Columnist for Mustang News** and
         <img src="https://raw.githubusercontent.com/IanRmacdonnell/ai-story-visualization-pipeline/main/benchmarks/man_of_the_crowd/man-of-the-crowd-storyboard.png" width="100%" alt="AI Story Visualization Pipeline storyboard" />
       </a>
       <h3>AI Story Visualization Pipeline</h3>
-      <p>A provider-neutral storytelling pipeline that segments source text, plans source-linked panels, checks continuity, and exports reproducible Story Bible bundles.</p>
-      <p><b>Shows:</b> creative AI tooling, reproducibility, structured generation, and source traceability.</p>
+      <p>Built a provider-neutral pipeline that turns source text into traceable visual storyboards with continuity checks and reproducible Story Bibles.</p>
       <p>
         <a href="https://ianrmacdonnell.github.io/ai-story-visualization-pipeline/"><b>Case study</b></a> ·
         <a href="https://github.com/IanRmacdonnell/ai-story-visualization-pipeline"><b>Repository</b></a>
@@ -78,13 +72,6 @@ Outside of engineering, I write as an **Opinion Columnist for Mustang News** and
     </td>
   </tr>
 </table>
-
-## How I approach a build
-
-1. **Start with the workflow.** Who is using this, what decision are they making, and what currently slows them down?
-2. **Design for the failure cases.** Connectivity drops, data gets messy, model output is uncertain, and requirements change.
-3. **Make the system explain itself.** Good interfaces surface status, provenance, limitations, and the next useful action.
-4. **Ship something testable.** I prefer a working vertical slice, real feedback, and measurable iteration over a perfect-looking specification.
 
 ## Tools I reach for
 
@@ -96,12 +83,8 @@ Outside of engineering, I write as an **Opinion Columnist for Mustang News** and
 
 ## A note on private work
 
-Some production and client work is intentionally private. The repositories featured here are standalone, sanitized portfolio projects that use synthetic or public-domain material—never proprietary code, credentials, or private data.
+Some production and client work is private. Every project featured here is standalone and sanitized, using synthetic or public-domain material. None include proprietary code, credentials, or private data.
 
 ## Let's connect
 
-I enjoy meeting people working on thoughtful products, technical product challenges, mobile experiences, and applied AI systems. The best place to reach me is [LinkedIn](https://www.linkedin.com/in/ian-macdonnell-832a01236/).
-
-<p align="center">
-  <i>Build for the workflow. Explain the tradeoffs. Make the next action clearer.</i>
-</p>
+Want to talk about thoughtful products, mobile experiences, or applied AI systems? Reach me on [LinkedIn](https://www.linkedin.com/in/ian-macdonnell-832a01236/).
