@@ -30,7 +30,7 @@ I also write as an **Opinion Columnist for Mustang News** and serve as **VP of T
         <a href="https://ianrmacdonnell.github.io/internship-opportunity-tracker/"><b>Live demo</b></a> ·
         <a href="https://github.com/IanRmacdonnell/internship-opportunity-tracker"><b>Repository</b></a>
       </p>
-      <sub>JavaScript · Vite · Local-first data · Product analytics</sub>
+      <b>JavaScript · Vite · Local-first data · Product analytics</b>
     </td>
     <td width="50%" valign="top">
       <a href="https://ianrmacdonnell.github.io/clamor-ai-memory-layer/">
@@ -42,7 +42,7 @@ I also write as an **Opinion Columnist for Mustang News** and serve as **VP of T
         <a href="https://ianrmacdonnell.github.io/clamor-ai-memory-layer/"><b>Case study</b></a> ·
         <a href="https://github.com/IanRmacdonnell/clamor-ai-memory-layer"><b>Repository</b></a>
       </p>
-      <sub>Node.js · Retrieval · AI product design · Full-stack</sub>
+      <b>Node.js · Retrieval · AI product design · Full-stack</b>
     </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ I also write as an **Opinion Columnist for Mustang News** and serve as **VP of T
         <a href="https://ianrmacdonnell.github.io/skier-tracking-yolov8-pipeline/"><b>Case study</b></a> ·
         <a href="https://github.com/IanRmacdonnell/skier-tracking-yolov8-pipeline"><b>Repository</b></a>
       </p>
-      <sub>Python · YOLOv8 · OpenCV · Data engineering</sub>
+      <b>Python · YOLOv8 · OpenCV · Data engineering</b>
     </td>
     <td width="50%" valign="top">
       <a href="https://ianrmacdonnell.github.io/ai-story-visualization-pipeline/">
@@ -68,7 +68,7 @@ I also write as an **Opinion Columnist for Mustang News** and serve as **VP of T
         <a href="https://ianrmacdonnell.github.io/ai-story-visualization-pipeline/"><b>Case study</b></a> ·
         <a href="https://github.com/IanRmacdonnell/ai-story-visualization-pipeline"><b>Repository</b></a>
       </p>
-      <sub>Python · NLP · Generative AI · Creative tooling</sub>
+      <b>Python · NLP · Generative AI · Creative tooling</b>
     </td>
   </tr>
 </table>
