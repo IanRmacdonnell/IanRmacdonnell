@@ -19,25 +19,25 @@ I am currently focused on **product, technical program management, business tech
 
 A privacy-first internship tracker that scores opportunities by fit, career signal, recency, urgency, and network strength—then turns the search into a prioritized action system.
 
-`JavaScript` · `Vite` · `Product analytics` · `Local-first data`
+**JavaScript** · **Vite** · **Product analytics** · **Local-first data**
 
 ### [Clamor](https://github.com/IanRmacdonnell/clamor-ai-memory-layer) · [Case study](https://ianrmacdonnell.github.io/clamor-ai-memory-layer/)
 
 An AI memory layer that turns noisy student-community chats into digests, action items, onboarding briefs, alerts, and source-backed answers.
 
-`Node.js` · `Retrieval` · `AI product design` · `Full-stack`
+**Node.js** · **Retrieval** · **AI product design** · **Full-stack**
 
 ### [Skier Tracking YOLOv8 Pipeline](https://github.com/IanRmacdonnell/skier-tracking-yolov8-pipeline) · [Case study](https://ianrmacdonnell.github.io/skier-tracking-yolov8-pipeline/)
 
 A computer-vision and data-engineering pipeline for skier detection, tracking diagnostics, quality metrics, and human-in-the-loop label review.
 
-`Python` · `YOLOv8` · `OpenCV` · `Data engineering`
+**Python** · **YOLOv8** · **OpenCV** · **Data engineering**
 
 ### [AI Story Visualization Pipeline](https://github.com/IanRmacdonnell/ai-story-visualization-pipeline) · [Case study](https://ianrmacdonnell.github.io/ai-story-visualization-pipeline/)
 
 A provider-neutral storytelling pipeline that segments source text, plans source-linked panels, enforces continuity, and exports reproducible Story Bible bundles.
 
-`Python` · `NLP` · `Generative AI` · `Creative tooling`
+**Python** · **NLP** · **Generative AI** · **Creative tooling**
 
 ## Tools I work with
 
