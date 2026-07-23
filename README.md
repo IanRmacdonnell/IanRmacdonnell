@@ -48,7 +48,7 @@ I also write as an **Opinion Columnist for Mustang News** and serve as **VP of T
   <tr>
     <td width="50%" valign="top">
       <a href="https://ianrmacdonnell.github.io/skier-tracking-yolov8-pipeline/">
-        <img src="./assets/skier-pipeline.svg" width="100%" alt="Skier tracking computer-vision pipeline" />
+        <img src="./assets/skier-pipeline-action.png" width="100%" alt="Skier tracking pipeline detecting and tracing a skier in action" />
       </a>
       <h3>Skier Tracking Pipeline</h3>
       <p>Built a computer-vision pipeline for skier detection, tracking diagnostics, quality metrics, and human-in-the-loop label review.</p>
