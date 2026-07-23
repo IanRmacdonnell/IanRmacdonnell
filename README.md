@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ian MacDonnell, product-minded builder working across mobile, AI, and data systems" />
+  <img src="./assets/hero.svg" width="100%" alt="Ian MacDonnell, product-minded builder working across consumer experience, AI, and data systems" />
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ## A little about me
 
-I am an **Information Systems student at Cal Poly** planning a Computer Science minor. I build mobile, AI, and data products where user needs and technical constraints meet. I am especially interested in messy problems involving unreliable connectivity, noisy data, and changing requirements.
+I am an **Information Systems student at Cal Poly** planning a Computer Science minor. I build consumer experiences, AI products, and data systems where user needs and technical constraints meet. I am especially interested in messy problems involving unreliable connectivity, noisy data, and changing requirements.
 
 I also write as an **Opinion Columnist for Mustang News** and serve as **VP of Tech Development for Cal Poly's Product Management Club**. Both roles keep communication, user empathy, and product judgment central to how I work.
 
-> **What I am exploring now:** product engineering, technical product management, mobile systems, and applied AI/data opportunities for Summer 2027.
+> **What I am exploring now:** product engineering, technical product management, consumer experience, and applied AI/data systems opportunities for Summer 2027.
 
 ## Selected work
 
@@ -76,10 +76,10 @@ I also write as an **Opinion Columnist for Mustang News** and serve as **VP of T
 ## Tools I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,postgres,aws,git,github&theme=dark" alt="JavaScript, TypeScript, React, Python, PostgreSQL, AWS, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,postgres,supabase,aws,jest,git,github&theme=dark" alt="JavaScript, TypeScript, React, Python, PostgreSQL, Supabase, AWS, Jest, Git, and GitHub" />
 </p>
 
-`React Native` · `Expo` · `JavaScript` · `TypeScript` · `Python` · `SQL` · `PostgreSQL` · `AWS` · `Git` · `Product discovery`
+`React Native` · `Expo` · `EAS Build` · `TestFlight` · `JavaScript` · `TypeScript` · `React Navigation` · `NFC` · `Supabase` · `Expo SecureStore` · `AsyncStorage` · `NetInfo` · `Jest` · `Python` · `SQL` · `PostgreSQL` · `AWS` · `Git` · `Product discovery`
 
 ## A note on private work
 
@@ -87,4 +87,4 @@ Some production and client work is private. Every project featured here is stand
 
 ## Let's connect
 
-Want to talk about thoughtful products, mobile experiences, or applied AI systems? Reach me on [LinkedIn](https://www.linkedin.com/in/ian-macdonnell-832a01236/).
+Want to talk about thoughtful consumer experiences, applied AI, or data systems? Reach me on [LinkedIn](https://www.linkedin.com/in/ian-macdonnell-832a01236/).
