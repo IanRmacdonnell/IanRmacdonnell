@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Ian MacDonnell — Product-minded builder</title>
-  <desc id="desc">A dark navy banner with a mobile interface, connected data nodes, and subtle animated signals representing mobile, AI, and data systems.</desc>
+  <desc id="desc">A dark navy banner with a consumer interface, connected data nodes, and subtle animated signals representing consumer experience, AI, and data systems.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071426" />
@@ -35,7 +35,7 @@
   <circle cx="1100" cy="50" r="180" fill="#42d6c5" opacity="0.035" />
   <circle cx="80" cy="330" r="190" fill="#f6ae2d" opacity="0.035" />
 
-  <!-- Mobile workflow -->
+  <!-- Consumer experience -->
   <g transform="translate(70 48)">
     <g class="float">
     <rect x="0" y="0" width="150" height="264" rx="26" fill="#09182b" stroke="#7aa5bd" stroke-opacity="0.7" stroke-width="2" />
@@ -57,7 +57,7 @@
     <text x="0" y="66" fill="#f5f8fa" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="0.5">IAN MACDONNELL</text>
     <rect x="0" y="88" width="520" height="4" rx="2" fill="url(#accent)" />
     <text x="0" y="135" fill="#c7d9e4" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="500">Product-minded builder across</text>
-    <text x="0" y="174" fill="#42d6c5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="700">MOBILE  •  AI  •  DATA SYSTEMS</text>
+    <text x="0" y="174" fill="#42d6c5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">CONSUMER EXPERIENCE  •  AI  •  DATA SYSTEMS</text>
     <text x="0" y="219" fill="#91aabc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">Cal Poly SLO  /  Information Systems  /  Planned CS Minor</text>
   </g>
 
